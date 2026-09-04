@@ -8,6 +8,6 @@ packaging==24.2
 pillow==11.0.0
 scikit-image==0.24.0
 scipy==1.14.1
-setuptools==75.5.0
+setuptools==83.0.0
 tifffile==2024.9.20
 wheel==0.45.0
